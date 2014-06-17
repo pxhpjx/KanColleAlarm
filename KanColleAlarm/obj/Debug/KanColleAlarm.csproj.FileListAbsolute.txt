@@ -1,0 +1,18 @@
+c:\users\pangjiaxi\documents\visual studio 2012\Projects\KanColleAlarm\KanColleAlarm\bin\Debug\KanColleAlarm.exe
+c:\users\pangjiaxi\documents\visual studio 2012\Projects\KanColleAlarm\KanColleAlarm\bin\Debug\KanColleAlarm.pdb
+c:\users\pangjiaxi\documents\visual studio 2012\Projects\KanColleAlarm\KanColleAlarm\obj\Debug\KanColleAlarm.csprojResolveAssemblyReference.cache
+c:\users\pangjiaxi\documents\visual studio 2012\Projects\KanColleAlarm\KanColleAlarm\obj\Debug\KanColleAlarm.Properties.Resources.resources
+c:\users\pangjiaxi\documents\visual studio 2012\Projects\KanColleAlarm\KanColleAlarm\obj\Debug\KanColleAlarm.csproj.GenerateResource.Cache
+c:\users\pangjiaxi\documents\visual studio 2012\Projects\KanColleAlarm\KanColleAlarm\obj\Debug\KanColleAlarm.exe
+c:\users\pangjiaxi\documents\visual studio 2012\Projects\KanColleAlarm\KanColleAlarm\obj\Debug\KanColleAlarm.pdb
+c:\users\pangjiaxi\documents\visual studio 2012\Projects\KanColleAlarm\KanColleAlarm\bin\Debug\Expeditions.xml
+c:\users\pangjiaxi\documents\visual studio 2012\Projects\KanColleAlarm\KanColleAlarm\obj\Debug\KanColleAlarm.Alarm.resources
+E:\Projects\KanColleAlarm\KanColleAlarm\obj\Debug\KanColleAlarm.exe
+E:\Projects\KanColleAlarm\KanColleAlarm\obj\Debug\KanColleAlarm.pdb
+E:\Projects\KanColleAlarm\KanColleAlarm\bin\Debug\Expeditions.xml
+E:\Projects\KanColleAlarm\KanColleAlarm\bin\Debug\KanColleAlarm.exe
+E:\Projects\KanColleAlarm\KanColleAlarm\bin\Debug\KanColleAlarm.pdb
+E:\Projects\KanColleAlarm\KanColleAlarm\obj\Debug\KanColleAlarm.Alarm.resources
+E:\Projects\KanColleAlarm\KanColleAlarm\obj\Debug\KanColleAlarm.Properties.Resources.resources
+E:\Projects\KanColleAlarm\KanColleAlarm\obj\Debug\KanColleAlarm.csprojResolveAssemblyReference.cache
+E:\Projects\KanColleAlarm\KanColleAlarm\obj\Debug\KanColleAlarm.csproj.GenerateResource.Cache
